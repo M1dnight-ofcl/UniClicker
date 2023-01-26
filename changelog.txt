@@ -1,0 +1,19 @@
+
+█▌ ▐█     ▀ ▄█▀▀▀ █ ▀  ▂▂ █          
+█▌ ▐█ █▀▆ █ ██    █ █ ▇▀▀ █▆▀ ▆▀▆ ▆▀▆ 
+▀█▄█▀ █ █ █ ▀█▆▆▆ █ █ ▀▆▆ █▔█ ▀▆▆ █  
+𝗖𝗛𝗔𝗡𝗚𝗘𝗟𝗢𝗚 ━━━━━━━━━━━━━━━━━━ v1.4.a
+┣➡ Added the ability to click
+┣➡ Enchanced shop menu and help menu design
+┣➡ Appended changelog
+┣➡ Added/fixed itm1 script
+┣➡ Added itm2 script (NON-WORKING)
+┣➡ MAJOR ASSETS FOLDER FILE RE-ORGINIZATION
+┣➡ MAJOR CORE FOLDER FILE RE-ORGINIZATION
+┗➡ MAJOR MODULE RENAME (import _ as _)
+
+𝗧𝗢 𝗕𝗘 𝗔𝗗𝗗𝗘𝗗 ━━━━━━━━━━━━━━━━ v1.4.a
+┣➡ Quick key commands for menus
+┣➡ Fixed itm2 script
+┣➡ itm3 script
+┗➡ "Command Error" bug

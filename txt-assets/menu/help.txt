@@ -1,0 +1,10 @@
+
+█ █ █▀▀ █   █▀█ ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+█▀█ ██▄ █▄▄ █▀▀ ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔│
+╻    COMMAND    │         ACTION        │
+┣➡     shop     │  Opens the shop menu  │
+┣➡     home     │   Hides open menus    │
+┣➡    reload    │    Reload screen      │
+┣➡     quit     │      Quits game       │
+┗➡   helpAdv    │   More help options   │
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔

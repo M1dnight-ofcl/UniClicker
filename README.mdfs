@@ -1,0 +1,30 @@
+                                        
+ █ █ █ █▀▀ █   █▀▀ █▀█ █▀▄▀█ █▀▀   ▀█▀ █▀█
+ ▀▄▀▄▀ ██▄ █▄▄ █▄▄ █▄█ █ ▀ █ ██▄    █  █▄█
+
+   █▌ ▐█     ▀ ▄█▀▀▀ █ ▀  ▂▂ █          
+   █▌ ▐█ █▀▆ █ ██    █ █ ▇▀▀ █▆▀ ▆▀▆ ▆▀▆ 
+   ▀█▄█▀ █ █ █ ▀█▆▆▆ █ █ ▀▆▆ █▔█ ▀▆▆ █   
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+ █▀▀ ▄▀█ █▀█ o
+ █▀  █▀█ ▀▀█ o
+
+Q: What is an .mdfs file?
+A: mdfs stands for M1dnightDev File System. 
+   Its really just a a glorified txt with a 
+   cool file extension.
+
+Q: Why is there a .txt copy of every menu?
+A: Its much easier to design a menu in a 
+   .txt and then print it than typing it 
+   directly in python. this is mainly 
+   because you can't see exactly how multi- 
+   line art would line up.
+
+Q: Why is there a sfx folder with .unused 
+   after the name?
+A: I tried installing playsound but it       
+   didn't work. I already had the sfx 
+   downloaded and kept them for when I do 
+   get playsound working. If the .unused it 
+   gone, I probably fixed it. 

@@ -1,0 +1,6 @@
+UNICLICKER LOG --------------------------
+Welcome to the UniClicker log! This log contains all commands run and all actions commited. 
+This log never resets, and updates for everyone.
+
+LOG STARTS HERE -------------------------
+
